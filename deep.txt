@@ -1,0 +1,7 @@
+http://www.corejavaguru.com
+
+1)Your Java programming language is object oriented
+2)Java technology is interpreted.
+3)Java is a simple, general-purpose, object-oriented, interpreted, robust, secure, architecture-neutral, portable, high-performance, multithreaded computer language
+4)Java has its own runtime environment (JRE) and API, it is called platform.
+5)
